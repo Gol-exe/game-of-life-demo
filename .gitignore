@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+TestResults/
+coverage/
+# Local SQLite database files
+data/
+*.db
+*.db-shm
+*.db-wal
